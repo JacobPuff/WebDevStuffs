@@ -1,2 +1,3 @@
 # WebDevStuffs
 This is the stuff I did to learn some things...
+Please dont look at this if you are thinking about hiring me. This was years ago.
